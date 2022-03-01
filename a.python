@@ -6,3 +6,6 @@ Good
 Moring
 Avinash
 Chunduri
+print("Hello World")
+for i in range(n):
+	print()
