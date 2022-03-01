@@ -9,3 +9,5 @@ Chunduri
 print("Hello World")
 for i in range(n):
 	print()
+while True: 
+	print()
